@@ -33,8 +33,3 @@ Welcome to my dark-humor-coded portfolio — because therapy is expensive, but o
 - HTML5
 - CSS
 - JavaScript
-
-## How to run
-
-```bash
-git clone https://github.com/nethasa-manawadu/hack-my-life

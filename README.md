@@ -38,4 +38,4 @@ Welcome to my dark-humor-coded portfolio | because therapy is expensive, but ope
 - ## How to run 👽
 
 ```bash
-https://github.com/nethasa-manawadu/hack-my-life
+https://nethasa-manawadu.github.io/hack-my-life/

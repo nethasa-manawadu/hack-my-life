@@ -34,3 +34,8 @@ Welcome to my dark-humor-coded portfolio | because therapy is expensive, but ope
 - HTML5
 - CSS
 - JavaScript
+
+- ## How to run 👽
+
+```bash
+https://github.com/your-username/404-portfolio-not-found

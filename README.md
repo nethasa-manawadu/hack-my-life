@@ -8,6 +8,7 @@ This is a fully operational hacking terminal-themed portfolio. If you came here 
 ## About Me
 
 I'm Dunithi Nethasa Manawadu, but you can call me `Nethasa` (I don't like my first name 😔).  
+
 "Sometimes I wanna hang my head...
 but my brain whispers,
 ‘You got enemies to flex on. Get up. 😉’
@@ -17,7 +18,7 @@ and my hairline already rage-quit the game.
 
 Still coding. Still surviving. Still stylish (in terminal green). ⚡
 
-Welcome to my dark-humor-coded portfolio — because therapy is expensive, but open-source is free.
+Welcome to my dark-humor-coded portfolio | because therapy is expensive, but open-source is free.
 
 ## Features
 
